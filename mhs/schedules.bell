@@ -24,7 +24,7 @@
 10:26 Passing to {Period 3}
 10:32 {Period 3}
 
-* short # Monday
+* latestart # Random 2hr late start for snow days and etc
 8:55 Passing to {Period 1}
 9:00 {Period 1}
 9:40 Brunch
@@ -39,7 +39,7 @@
 13:00 {Period 5}
 13:40 Free
 
-* friday # Friday
+* earlyrelease # 2 hr early release
 8:55 Passing to {Period 1}
 9:00 {Period 1}
 9:40 Brunch
